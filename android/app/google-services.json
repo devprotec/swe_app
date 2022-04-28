@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "912284990018",
+    "project_id": "sage-app-17dfb",
+    "storage_bucket": "sage-app-17dfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912284990018:android:88f86b6f5460ad8cc68bdb",
+        "android_client_info": {
+          "package_name": "com.devpro.pm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912284990018-mg6qsc9fia09nhca4tp23c1cek7tvvrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXre_78tugpQnrRquDAeAC0kr4KXOmZbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912284990018-mg6qsc9fia09nhca4tp23c1cek7tvvrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912284990018:android:2bd229a8ee9afb30c68bdb",
+        "android_client_info": {
+          "package_name": "com.devpro.pm_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912284990018-mg6qsc9fia09nhca4tp23c1cek7tvvrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXre_78tugpQnrRquDAeAC0kr4KXOmZbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912284990018-mg6qsc9fia09nhca4tp23c1cek7tvvrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912284990018:android:8a08e71b0befce25c68bdb",
+        "android_client_info": {
+          "package_name": "com.example.swe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912284990018-mg6qsc9fia09nhca4tp23c1cek7tvvrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXre_78tugpQnrRquDAeAC0kr4KXOmZbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912284990018-mg6qsc9fia09nhca4tp23c1cek7tvvrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912284990018:android:759dd7e1ca8dfa03c68bdb",
+        "android_client_info": {
+          "package_name": "com.mat.nkudu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912284990018-do827ptfetr6fel5mk97prh3sp3gp5km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mat.nkudu",
+            "certificate_hash": "667817393efd48ecef0796e655f635b8c067a823"
+          }
+        },
+        {
+          "client_id": "912284990018-mg6qsc9fia09nhca4tp23c1cek7tvvrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXre_78tugpQnrRquDAeAC0kr4KXOmZbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912284990018-mg6qsc9fia09nhca4tp23c1cek7tvvrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912284990018:android:dfbc0aca8d117f9ec68bdb",
+        "android_client_info": {
+          "package_name": "com.mat.sagequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912284990018-mg6qsc9fia09nhca4tp23c1cek7tvvrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXre_78tugpQnrRquDAeAC0kr4KXOmZbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912284990018-mg6qsc9fia09nhca4tp23c1cek7tvvrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

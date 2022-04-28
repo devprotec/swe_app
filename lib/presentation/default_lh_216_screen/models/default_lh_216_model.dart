@@ -1,0 +1,1 @@
+class DefaultLh216Model {}
