@@ -1,0 +1,5 @@
+url_f = http://20.117.122.111/Mobile/RB100future.php
+url_g = http://20.117.122.111/Mobile/RB100details.php
+url_n = http://20.117.122.111/Mobile/RB100.php
+usb_port = /dev/ttyUSB0
+num_pred = 5
